@@ -1,2 +1,11 @@
 # mycobot-280-pi
-code and getting started with the mycobot-280-pi robot arm. 
+this is a test change in a seperate branch 
+
+H~2~O 
+
+X^2^
+
+H~2~O
+
+![alt text](dhdiagram.jpg)
+
