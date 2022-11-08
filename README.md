@@ -5,5 +5,7 @@ H~2~O
 
 X^2^
 
+H~2~O
+
 ![alt text](dhdiagram.jpg)
 
