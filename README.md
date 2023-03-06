@@ -8,6 +8,5 @@ The official documentation: [Elephant Robotics Documentation](https://docs.eleph
 
 ### Useful Section in the documentation 
 asdfsd
-[Elephant Robotics Documentation](https://docs.elephantrobotics.com/docs/gitbook-en)
-[The s](https://docs.elephantrobotics.com/docs/gitbook-en](https://docs.elephantrobotics.com/docs/gitbook-en/2-serialproduct/2.1-280/2.1-280.html)
+[Elephant Robotics Documentation]([https://docs.elephantrobotics.com/docs/gitbook-en](https://docs.elephantrobotics.com/docs/gitbook-en](https://docs.elephantrobotics.com/docs/gitbook-en/2-serialproduct/2.1-280/2.1-280.html))
 
