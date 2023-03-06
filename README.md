@@ -7,6 +7,5 @@ Everything FLC Club Members have learned about the mycobot-280-pi. Most of this 
 The official documentation: [Elephant Robotics Documentation](https://docs.elephantrobotics.com/docs/gitbook-en)
 
 ### Useful Section in the documentation 
-asdfsd
-[Elephant Robotics Documentation]([https://docs.elephantrobotics.com/docs/gitbook-en](https://docs.elephantrobotics.com/docs/gitbook-en](https://docs.elephantrobotics.com/docs/gitbook-en/2-serialproduct/2.1-280/2.1-280.html))
+asdfsd: [Elephant Robotics Documentation]([https://docs.elephantrobotics.com/docs/gitbook-en](https://docs.elephantrobotics.com/docs/gitbook-en](https://docs.elephantrobotics.com/docs/gitbook-en/2-serialproduct/2.1-280/2.1-280.html))
 
