@@ -3,5 +3,5 @@ Everything FLC Club Members have learned about the mycobot-280-pi. Most of this 
 
 ## Important Resources 
 * You need a VPN to access this website while on school wifi *
-The official documentation: [GitHub Pages]([https://pages.github.com/](https://docs.elephantrobotics.com/docs/gitbook-en)
+The official documentation: [GitHub Pages](https://docs.elephantrobotics.com/docs/gitbook-en)
 
